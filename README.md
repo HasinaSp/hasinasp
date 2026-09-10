@@ -1,6 +1,6 @@
 # Hi, I'm Hasina 👋
 
-### Full-Stack Developer 🇲🇬
+### Full-Stack Developer
 
 I'm a Full-Stack Developer passionate about building modern, scalable and user-focused web applications.
 
