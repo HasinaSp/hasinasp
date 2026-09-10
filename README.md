@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Hasina 👋
 
-<!--
-**HasinaSp/hasinasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer 🇲🇬
 
-Here are some ideas to get you started:
+I’m a Full-Stack Developer passionate about building modern, scalable and user-focused web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work with **React, Next.js and Laravel**, with experience across frontend development, backend APIs, databases and modern development workflows.
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* HTML / CSS / JavaScript
+
+**Backend**
+
+* Laravel
+* PHP
+* REST APIs
+* MySQL
+
+**Tools & Others**
+
+* Git & GitHub
+* Docker
+* Figma
+* n8n / Zapier
+* Solidity
+
+### 🚀 What I'm working on
+
+* Building modern web applications
+* Exploring AI-powered products and automation
+* Improving my frontend architecture and UX skills
+* Working on personal projects and open-source ideas
+
+### 📌 Featured Projects
+
+Check out my pinned repositories below to see some of the projects I've worked on.
+
+### 🌐 Connect with me
+
+* Portfolio: [your portfolio]
+* LinkedIn: [your LinkedIn]
+* Email: [your email]
