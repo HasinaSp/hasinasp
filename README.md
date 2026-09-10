@@ -44,6 +44,6 @@ Check out my pinned repositories below to see some of the projects I've worked o
 
 ### 🌐 Connect with me
 
-* Portfolio: [your portfolio]
-* LinkedIn: [your LinkedIn]
-* Email: [your email]
+* Portfolio: https://hasiniavo.vercel.app/
+* LinkedIn: https://www.linkedin.com/in/hasina-andriamahandry-26027a214/
+* Email: hasina.and@prestigg.io
